@@ -1,5 +1,5 @@
 [package]
-name = "redis"
+name = "trezm-redis"
 version = "0.15.2-alpha.0"
 authors = ["Armin Ronacher <armin.ronacher@active-4.com>", "Jan-Erik Rediger <janerik@fnordig.de>"]
 keywords = ["redis", "database"]
